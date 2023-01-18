@@ -1,0 +1,69 @@
+body {
+  margin: 0
+  font-family: sans-serif;
+}
+
+h3 {
+  text-align: center;
+  text-align: left;
+  text-align: right;
+  font-size: 45px;
+  margin-left: 10px;
+  margin-right: 40px;
+
+  color: #000000;
+}
+
+h1 {
+  text-align: center;
+  text-align: right;
+  text-decoration-line: underline;
+  color: black;
+}
+
+
+.bilde {
+  width: 1700px;
+  height: 1300px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: -400px;
+  position: absolute;
+
+}
+
+.alsvåg {
+  width: 1879px;
+  height: 2010px;
+  margin-left: -8px;
+  margin-right: 0px;
+  margin-top: -1240px;
+  margin-bottom: -917px;
+}
+
+p {
+  color: black;
+  text-align: center;
+  text-align: left;
+  text-align: right;
+}
+.sitat {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.overskrift {
+  margin-top: 50px;
+  font-size: 35px;
+}
+.forfatter {
+  font-style: italic;
+}
+
+a {
+  margin-right: 20px;
+  margin-left: 1650px;
+  font-size: 25px;
+  color: white;
+}
